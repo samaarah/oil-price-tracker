@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OilPriceTracker", "OilPriceTracker\OilPriceTracker.csproj", "{1CC980FF-7DE6-4AE1-877F-A0809D269E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPageAutomator", "WebPageAutomator\WebPageAutomator.csproj", "{1711D584-D427-4918-A4C8-B2B71D01ADFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfluxDBStorage", "InfluxDBStorage\InfluxDBStorage.csproj", "{A2842FC9-704C-44BB-903A-01EAB1B51D53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CC980FF-7DE6-4AE1-877F-A0809D269E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CC980FF-7DE6-4AE1-877F-A0809D269E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CC980FF-7DE6-4AE1-877F-A0809D269E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CC980FF-7DE6-4AE1-877F-A0809D269E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1711D584-D427-4918-A4C8-B2B71D01ADFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1711D584-D427-4918-A4C8-B2B71D01ADFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1711D584-D427-4918-A4C8-B2B71D01ADFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1711D584-D427-4918-A4C8-B2B71D01ADFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2842FC9-704C-44BB-903A-01EAB1B51D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2842FC9-704C-44BB-903A-01EAB1B51D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2842FC9-704C-44BB-903A-01EAB1B51D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2842FC9-704C-44BB-903A-01EAB1B51D53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20BA1561-7E0E-4C1F-AFC1-83224CA48EA4}
+	EndGlobalSection
+EndGlobal
