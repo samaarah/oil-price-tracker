@@ -1,8 +1,0 @@
-C:\GIT\oil-price-tracker\WebPageAutomator\bin\Debug\WebPageAutomator.dll
-C:\GIT\oil-price-tracker\WebPageAutomator\bin\Debug\WebPageAutomator.pdb
-C:\GIT\oil-price-tracker\WebPageAutomator\bin\Debug\WebDriver.dll
-C:\GIT\oil-price-tracker\WebPageAutomator\bin\Debug\WebDriver.xml
-C:\GIT\oil-price-tracker\WebPageAutomator\obj\Debug\WebPageAutomator.csproj.CoreCompileInputs.cache
-C:\GIT\oil-price-tracker\WebPageAutomator\obj\Debug\WebPageAutomator.csproj.CopyComplete
-C:\GIT\oil-price-tracker\WebPageAutomator\obj\Debug\WebPageAutomator.dll
-C:\GIT\oil-price-tracker\WebPageAutomator\obj\Debug\WebPageAutomator.pdb
