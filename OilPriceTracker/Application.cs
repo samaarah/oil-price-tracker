@@ -177,6 +177,7 @@ namespace OilPriceTracker
 
         private void buttonStartReadingPrices_Click(object sender, EventArgs e)
         {
+            buttonStartReadingPrices.Enabled = false;
             th = new Thread(TimerThread);
             th.Start();
         }
